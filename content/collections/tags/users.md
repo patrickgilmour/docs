@@ -102,7 +102,7 @@ A simple example is to loop through all the users and list them by name:
 
 ## Filtering
 
-You can filter you users by group, role, field, or even custom filter class if you need extra control.
+You can filter your users by group, role, field, or even custom filter class if you need extra control.
 
 ### Conditions
 
